@@ -1,7 +1,7 @@
 {
   "name": "youtube",
   "version": "0.1.0",
-  "homepage": "./",
+  "homepage": "./public/index.html",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
