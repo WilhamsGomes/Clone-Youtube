@@ -1,6 +1,7 @@
 # Clone interface inicial do YouTube
 
-Acesse em:
+![Sem título](https://user-images.githubusercontent.com/71606861/152019460-5b942a99-24ce-4d6c-9a89-dabcd7587b15.png)
+
 
 # Ferramentas utilizadas 🚀
 - ReactJS
